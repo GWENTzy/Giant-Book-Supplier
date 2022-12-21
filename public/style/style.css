@@ -1,0 +1,75 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Roboto:wght@500&display=swap');
+
+html,
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFBE9 !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.title {
+    font-family: 'Kolker Brush', cursive;
+    font-size: 80px;
+    text-align: center;
+    background-color: #8d715f;
+    color: #FAF9F6;
+}
+
+*{
+    background-color: #E2CBA6;
+    color: #33341A;
+}
+.native{
+    padding: 1rem 3rem;
+    box-shadow: 0 0 12px rgb(0,0,0, 0.1);
+}
+.logo h1{
+font-weight: bolder;
+font-size: 2em;
+
+}
+.nav-item{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.dropdown-menu.show{
+    background-color: #E2CBA6;
+}
+.btn{
+    background-color: #d89d3d;
+    border:1px #33341A;
+}
+
+footer {
+    padding-top: 10.5rem;
+}
+
+.card{
+border-radius: 10px;
+}
+.contain{
+    padding: 2rem;
+    border:1px #000000;
+}
+
+.btn{
+    border-radius: 20px;
+    background-color: #d89d3d!important;
+}
+
+.contact{
+    background-color: #ab9e88;
+    padding: 1rem 1rem;
+}
+.contact h1{
+    background-color: #ab9e88;
+}
+.index{
+    background-color: #ab9e88;
+    padding: 1rem 1rem;
+}
+.index h1{
+    background-color: #ab9e88;
+} */
